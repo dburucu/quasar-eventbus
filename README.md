@@ -1,6 +1,14 @@
 # Quasar App (eventbus)
 
-A Quasar Project
+A Quasar example Project for EventBus
+
+<p align="center">
+    <img src="docs/screenshot1.png" align="center" />
+<p>
+
+### More information
+https://quasar.dev/quasar-utils/event-bus-util
+
 
 ## Install the dependencies
 ```bash
@@ -13,12 +21,3 @@ npm install
 ```bash
 quasar dev
 ```
-
-
-### Build the app for production
-```bash
-quasar build
-```
-
-### Customize the configuration
-See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
